@@ -20,3 +20,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br> 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br> 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monicahillman&count_private=true&show_icons=true&theme=radical" /> </p>
