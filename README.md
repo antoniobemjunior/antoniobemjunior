@@ -8,9 +8,7 @@
 
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
-<!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) 
-
-<!--
+<!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) --->
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
