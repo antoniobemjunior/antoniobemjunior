@@ -8,4 +8,8 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+<!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) 
+
+<!--
+
+<br><br>
