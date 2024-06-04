@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at [Alura](https://www.alura.com.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
 <!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) 
 
