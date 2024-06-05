@@ -4,8 +4,8 @@
 
 - 👨‍💻 Junior Web Developer
 
-- <p>📚 I’m currently studying at <img src="https://img.shields.io/badge/Alura-0000ff"/></p>
-<!--- href="https://www.alura.com.br/" ---> 
+- <p>📚 I’m currently studying at <a href="https://www.alura.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff"/></a></p>
+
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
 <!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) --->
