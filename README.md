@@ -1,4 +1,4 @@
-<img height="520em" src="https://github.com/antoniobemjunior/antoniobemjunior/blob/main/Antonio.png"/>
+<img height="520em" src="https://github.com/antoniobemjunior/antoniobemjunior/blob/main/banner.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antônio de Bem Junior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniobemjunior&color=red" alt="Profile views" /> </p>
 
