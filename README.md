@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=antoniobemjunior&count_private=true&show_icons=true&theme=dark" />
 
-<h2 align="left">🛠 Tech Stack</h2>
+<h3 align="left">🛠 Tech Stack</h3>
 
 <br><a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -19,7 +19,7 @@
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 
-<h2 align="left">✉ Contact</h2>
+<h3 align="left">✉ Contact</h3>
 
 <a href="https://wa.me/5547984296553"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
