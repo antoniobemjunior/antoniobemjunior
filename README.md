@@ -22,3 +22,4 @@
 
 <h1 align="left">✉ Contact</h1>
 
+<a href="https://wa.me/5547984296553"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
