@@ -9,6 +9,7 @@
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
 <!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) --->
+<img src="https://github-readme-stats.vercel.app/api?username=antoniobemjunior&count_private=true&show_icons=true&theme=dark" />
 
 <h1 align="left">🛠 Tech Stack</h1>
 
@@ -18,6 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br> 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br> 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antoniobemjunior&count_private=true&show_icons=true&theme=dark" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=antoniobemjunior&count_private=true&show_icons=true&theme=dark" />
+<h1 align="left">✉ Contact</h1>
+
