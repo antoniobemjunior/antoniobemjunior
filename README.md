@@ -4,7 +4,7 @@
 
 - 👨‍💻 Junior Web Developer
 
-- <p>📚 I’m currently studying at <a href="https://www.alura.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff"/></a></p>
+- <p>📚 I’m currently studying at <a href="https://www.alura.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff?style=for-the-badge&logo=Alura&logoColor=white"/></a></p>
 
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
