@@ -31,3 +31,4 @@
 - <a href="https://antoniobemjunior.github.io/alurabooks/">Alura Books</a>
 - <a href="https://antoniobemjunior.github.io/AluraPlay/">Alura Play</a>
 - <a href="https://antoniobemjunior.github.io/alura-plus/">Alura Plus</a>
+- <a href="https://antoniobemjunior.github.io/WaveCast/">WaveCast</a>
