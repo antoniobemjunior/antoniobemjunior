@@ -36,4 +36,5 @@
 - <a href="https://antoniobemjunior.github.io/alura-plus/">Alura Plus</a>
 - <a href="https://antoniobemjunior.github.io/calmaria-spa/">Calmaria SPA</a>
 - <a href="https://antoniobemjunior.github.io/lista-de-compras/">Lista de Compras</a>
+- <a href="https://antoniobemjunior.github.io/todo-list-JAVASCRIPT/">Todo List</a>
 - <a href="https://antoniobemjunior.github.io/WaveCast/">WaveCast</a>
