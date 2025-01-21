@@ -4,7 +4,7 @@
 
 - 👨‍💻 Trainee Systems Developer
 
-- <p>📚 I’m currently working at <a href="https://www.teclogica.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff?logo=Teclógica&logoColor=white"/></a></p>
+- <p>📚 I’m currently working at <a href="https://www.teclogica.com.br/" ><img src="https://img.shields.io/badge/Teclogica-0000ff?logo=Teclogica&logoColor=white"/></a></p>
 
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
