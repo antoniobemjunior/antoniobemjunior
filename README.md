@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antônio de Bem Junior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniobemjunior&color=red" alt="Profile views" /> </p>
 
-- 👨‍💻 Trainee Systems Developer at <a href="https://www.teclogica.com.br/">Teclógica</a>
+- 👨‍💻 Trainee Systems Developer at <a href="https://www.teclogica.com.br/" style="text-decoration: none">Teclógica</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=antoniobemjunior&count_private=true&show_icons=true&theme=dark" />
 
