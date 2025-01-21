@@ -2,9 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Antônio de Bem Junior</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniobemjunior&color=red" alt="Profile views" /> </p>
 
-- 👨‍💻 Junior Web Developer
+- 👨‍💻 Trainee Systems Developer
 
-- <p>📚 I’m currently studying at <a href="https://www.alura.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff?logo=Alura&logoColor=white"/></a></p>
+- <p>📚 I’m currently working at <a href="https://www.teclogica.com.br/" ><img src="https://img.shields.io/badge/Alura-0000ff?logo=Teclógica&logoColor=white"/></a></p>
 
 - 💬 Ask me about **JavaScript**, **HTML** and **CSS**
 
