@@ -9,14 +9,11 @@
 <h3 align="left">🛠 Tech Stack</h3>
 
 <br>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/TAILWINDCSS-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
-<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/C%23-rgb(255,0,0)" /></a>
+<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/JavaScript-rgb(0,0,0)" /></a>
+<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/HTML-rgb(10,0,0)" /></a>
+<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/CSS-rgb(20,0,0)" /></a>
+<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/GitHub-rgb(30,0,0)" /></a>
+<a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/C%23-rgb(40,0,0)" /></a>
 
 <h3 align="left">✉ Contact</h3>
 
