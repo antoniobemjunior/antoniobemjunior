@@ -16,7 +16,7 @@
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/TAILWINDCSS-0b1120?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
 <a href="https://github.com/antoniobemjunior"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 <h3 align="left">✉ Contact</h3>
 
