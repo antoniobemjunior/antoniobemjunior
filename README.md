@@ -22,7 +22,7 @@
 <h3 align="left">✉ Contact</h3>
 
 <a href="https://wa.me/5547984296553"><img src="https://img.shields.io/badge/WhatsApp-rgb(90,0,0)"/></a>
-<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/E%2Dmail-rgb(100,0,0)"/></a>
+<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/E&#45mail-rgb(100,0,0)"/></a>
 <a href="https://www.linkedin.com/in/antonio-romero-ferreira-de-bem-junior/"><img src="https://img.shields.io/badge/LinkedIn-rgb(110,0,0)"/></a>
 
 <h3 align="left">Portfolio</h3>
