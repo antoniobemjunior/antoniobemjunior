@@ -20,9 +20,9 @@
 
 <h3 align="left">✉ Contact</h3>
 
-<a href="https://www.linkedin.com/in/antonio-romero-ferreira-de-bem-junior/"><img src="https://img.shields.io/badge/LinkedIn-rgb(90,0,0)"/></a>
-<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/Email-rgb(100,0,0)"/></a>
-<a href="https://wa.me/5547984296553?text=Ol%C3%A1%20Ant%C3%B4nio%2C%20tudo%20bem%3F"><img src="https://img.shields.io/badge/WhatsApp-rgb(110,0,0)"/></a>
+<a href="https://www.linkedin.com/in/antonio-romero-ferreira-de-bem-junior/"><img src="https://img.shields.io/badge/LinkedIn-rgb(0,85,0)"/></a>
+<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/Email-rgb(0,170,0)"/></a>
+<a href="https://wa.me/5547984296553?text=Ol%C3%A1%20Ant%C3%B4nio%2C%20tudo%20bem%3F"><img src="https://img.shields.io/badge/WhatsApp-rgb(0,255,0)"/></a>
 
 <h3 align="left">Portfolio</h3>
 
