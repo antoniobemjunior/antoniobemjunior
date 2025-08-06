@@ -24,7 +24,7 @@
 <a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/Email-rgb(0,170,0)"/></a>
 <a href="https://wa.me/5547984296553?text=Ol%C3%A1%20Ant%C3%B4nio%2C%20tudo%20bem%3F"><img src="https://img.shields.io/badge/WhatsApp-rgb(0,255,0)"/></a>
 
-<h3 align="left">Portfolio</h3>
+<h3 align="left"><a href="https://antoniobemjunior.github.io/portifolio/">Portfolio</a></h3>
 
 - <a href="https://antoniobemjunior.github.io/alurabooks/"><img src="https://img.shields.io/badge/Alura Books-rgb(0,0,28)"/></a>
 - <a href="https://antoniobemjunior.github.io/alura-newsletter/"><img src="https://img.shields.io/badge/Alura Newsletter-rgb(0,0,56)"/></a>
