@@ -21,10 +21,9 @@
 
 <h3 align="left">✉ Contact</h3>
 
-<a href="https://wa.me/5547984296553"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ant%C3%B4nio-romero-ferreira-de-bem-junior-7b3b2728/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/@AntoniodeBemJunior"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://wa.me/5547984296553"><img src="https://img.shields.io/badge/WhatsApp-rgb(90,0,0)"/></a>
+<a href="mailto:antonio.bem.junior@gmail.com"><img src="https://img.shields.io/badge/E-mail-rgb(100,0,0)"/></a>
+<a href="https://www.linkedin.com/in/antonio-romero-ferreira-de-bem-junior/"><img src="https://img.shields.io/badge/LinkedIn-rgb(110,0,0)"/></a>
 
 <h3 align="left">Portfolio</h3>
 
